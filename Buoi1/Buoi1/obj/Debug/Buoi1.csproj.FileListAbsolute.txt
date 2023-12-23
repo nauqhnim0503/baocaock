@@ -1,0 +1,7 @@
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\bin\Debug\Buoi1.exe.config
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\bin\Debug\Buoi1.exe
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\bin\Debug\Buoi1.pdb
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.AssemblyReference.cache
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.CoreCompileInputs.cache
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\obj\Debug\Buoi1.exe
+D:\CONG NGHE THONG TIN\HK1 Nam3\LT HUONG DOI TUONG\New folder\Buoi1\Buoi1\obj\Debug\Buoi1.pdb
